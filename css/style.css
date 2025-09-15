@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 80px;
+    background-color:  #3161e0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.col-30{
+    width: 20%;
+    margin: auto;
+}
+
+.bg-2{
+    list-style: none;
+}
+
+.bg-3{
+    background-color: violet;
+}
+
+.container{
+    height: 700px;
+    background-color: palegreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-4{
+    background-color: palevioletred;
+}
+
+.main-text{
+    height: 400px;
+    width: 600px;
+}
+
+.foto{
+    background-color: lightcoral;
+    height: 400px;
+    width: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.study-group{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:space-around;
+    align-content: center;
+}
+
+.testo{
+    background-color: violet;
+    height: 400px;
+    width: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.tec{
+    background-color: forestgreen;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.testo-4{
+    background-color: saddlebrown;
+    margin-top: 100px;
+}
+
+.pa{
+    background-color: blueviolet;
+    margin-top: 100px;
+}
+
+.img{
+    background-color: blue;
+    margin-top: 100px;
+}
+
+.avventura{
+    background-color: cadetblue;
+    margin-top: 100px;
+}
+
+.scarica{
+    background-color: chocolate;
+    
+}
+
+
+
+.bg-5{
+    background-color: darkcyan;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.list-1{
+    display: flex;
+}
+
+
+.list-3{
+    background-color: blue;
+    height: 150px;
+    width: 80px;
+
+}
+
+.bg-6{
+    background-color: salmon;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.img-2{
+    background-color: slateblue;
+    height: 10px;
+    width: 30px;
+    display: flex;
+
+}
+
+
+.botton{
+    background-color:lawngreen;
+    height: 10px;
+    width: 30px;
+    display: flex;
+}
